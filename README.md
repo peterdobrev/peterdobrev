@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.Net Core**
 
-- 💬 Ask me about **Unity, C#, SQL**
+- 💬 Ask me about **Game Development with Unity, C# or .Net Core with SQL**
 
 - 📫 How to reach me **peterdobrevxd@gmail.com**
 
