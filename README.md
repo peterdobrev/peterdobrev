@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Petar Dobrev</h1>
-<h3 align="center">A passionate game developer from Bulgaria</h3>
+<h3 align="center">A game developer working for Rabbit Mountain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterdobrev&label=Profile%20views&color=0e75b6&style=flat" alt="peterdobrev" /> </p>
 
@@ -7,17 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_peterdobrev_" target="blank"><img src="https://img.shields.io/twitter/follow/_peterdobrev_?logo=twitter&style=for-the-badge" alt="_peterdobrev_" /></a> </p>
 
-- 🔭 I’m currently working on **creating a game for "My First Game Jam: Winter 2023"**
-
-- 🌱 I’m currently learning **.Net Core**
-
-- 🎮 I’m really interested in **Game Jams**
-
-- 💬 Ask me about **Game Development with Unity, C# or .Net Core**
-
 - 📫 How to reach me **peterdobrevxd@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
