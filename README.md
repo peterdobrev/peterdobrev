@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Petar Dobrev</h1>
-<h3 align="center">A game developer working for Rabbit Mountain</h3>
+<h3 align="center">A game developer for Rabbit Mountain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterdobrev&label=Profile%20views&color=0e75b6&style=flat" alt="peterdobrev" /> </p>
 
