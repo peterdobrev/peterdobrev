@@ -46,7 +46,7 @@ Here are some of my favorite projects I've worked on:
   - BSc in Software Engineering, 2023 - 2027
 
 ## Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/peterdobrev/)
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/peterdobrev/)
 
 Feel free to browse through my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
