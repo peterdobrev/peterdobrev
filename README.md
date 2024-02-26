@@ -22,7 +22,7 @@ Here are some of my favorite projects I've worked on:
 - **Technologies Used:** C#, Unity.
 - **[View Repository](https://github.com/peterdobrev/soup-saviour)**
 
-### Spot The Differences *(Still in progress)*
+### Spot The Differences App
 - **Description:** Spot The Difference Game.
 - **Technologies Used:** Flutter, Flame, Dart.
 - **[View Repository](https://github.com/peterdobrev/spot-the-differences-application)**
