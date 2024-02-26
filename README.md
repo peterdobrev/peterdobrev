@@ -34,8 +34,8 @@ Here are some of my favorite projects I've worked on:
 
 
 ## Skills
-- **Languages:** C#, C++, Dart, MSSQL
-- **Tools:** Visual Studio, Unity, Flame, Flutter
+- **Languages:** C#, C++, Dart
+- **Tools:** Unity, Flame, Flutter
 
 ## Education
 - **Sofia University St. Kliment Ohridski**
