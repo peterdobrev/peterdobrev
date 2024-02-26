@@ -15,7 +15,7 @@ Here are some of my favorite projects I've worked on:
 - **Description:** 2D Multiplayer shooter game.
 - **Technologies Used:** C#, Unity, Netcode For GameObjects
 - **[View Repository](https://github.com/peterdobrev/Fortnite2D)**
-- **[Watch Video About It (YouTube)](https://youtu.be/IzylGolACZ0?si=fDGn9OsmiZtm8jgR)
+- **[Watch Video About It (YouTube)](https://youtu.be/IzylGolACZ0?si=fDGn9OsmiZtm8jgR)**
 
 ### Soup Saviour
 - **Description:** 2D Top-Down Arcade Game.
