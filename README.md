@@ -1,11 +1,4 @@
-# Hello, I'm Petar Dobrev 👋
-
-## About Me
-I'm a Software Engineering student at Sofia University St. Kliment Ohridski. Passionate about developing innovative solutions and excited about the world of programming. Here, you'll find a selection of my projects and contributions.
-
-## My Projects
-Here are some of my favorite projects I've worked on:
-
+## Projects
 ### Brain Teaser XXL: Tricky Games
 - **Description:** 2D Puzzle Game.
 - **Technologies Used:** C#, Unity, Astra.
